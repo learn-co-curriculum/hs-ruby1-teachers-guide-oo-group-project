@@ -9,7 +9,7 @@
 ### Lesson Plan
 + Start lesson by selecting an environment to model. Some models we've had success teaching are:
   + A baby
-  + [A jungle](https://github.com/flatiron-school-curriculum/hs-oo-jungle-project-demo)
+  + [A jungle](https://github.com/learn-co-curriculum/hs-oo-jungle-project-demo)
   + Instagram
   + Facebook
   + A car and its owner
@@ -22,7 +22,7 @@
   + Class methods
   + Constants
 + Build out, with students' help, a basic set of models that can be interacted with in the command line, via a runner file that requires all necessary files.
-+ Students then dive into the group challenges, starting with the [OO Cash Register](https://github.com/flatiron-school-curriculum/hs-oo-cash-register). They can move on to the [Jukebox](https://github.com/flatiron-school-curriculum/oo-jukebox) if they finish. 
++ Students then dive into the group challenges, starting with the [OO Cash Register](https://github.com/learn-co-curriculum/hs-oo-cash-register). They can move on to the [Jukebox](https://github.com/learn-co-curriculum/oo-jukebox) if they finish. 
 
 ### Conclusion / So What?
 + Object orientation is not unique to Ruby. It's a programming concept that many different languages implement. So once you've gotten it down in Ruby, it'll be easy to translate your knowledge onto other programming languages that you'll learn, like JavaScript. So many of these concepts cut across languages, so the more you know, the easier it'll be to master additional languages in the future.
