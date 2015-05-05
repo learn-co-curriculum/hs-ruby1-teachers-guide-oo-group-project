@@ -1,28 +1,20 @@
-## Unit 6: Introduction to Ruby
-
 ### SWBATs
 + Work collaboratively to develop an object-oriented set of models that simulate real world environments.
 
 ### Motivation / Why Should You Care?
 + The object-oriented group challenge involves building out a set of models that imitate the real world and interact with each other. Knowing object orientation like the back of your hand is essential to being a strong Ruby programmer. Whether you're building a simple command line application or a full-fledged web application, object orientation will help you build in an efficient, D.R.Y., and reusable manner.
++ We talked a lot yesterday about the power of OO to orgranize the data to HUGE applciatons that support millions and billions of users. We even built out our own Facebook user class. 
+
++ Did you know that in the days leading up to Christmas, Amazon made 426 purchases A SECOND. LITERALLY EVERY SINGLE SECOND. That's 37 million purchases in A DAY. How in the world are they able to handle that? There are huge [server farms](https://www.google.com/about/datacenters/gallery/#/) dedicated to storing that data. So how are applications able to process that many purchases in a day? Object orientation. 
+
+Now you guys get the chance to build out the software that handles 37 million packages a day.
 
 ### Lesson Plan
-+ Start lesson by selecting an environment to model. Some models we've had success teaching are:
-  + A baby
-  + [A jungle](https://github.com/learn-co-curriculum/hs-oo-jungle-project-demo)
-  + Instagram
-  + Facebook
-  + A car and its owner
-+ Whiteboard with class all the attributes and actions of the model.
-+ Review these concepts during demo:
-  + Readers and writers, then `attr_accessor`
-  + `self`
-  + Methods that create new instances of a class
-  + Instances of a class interacting with each other
-  + Class methods
-  + Constants
-+ Build out, with students' help, a basic set of models that can be interacted with in the command line, via a runner file that requires all necessary files.
-+ Students then dive into the group challenges, starting with the [OO Cash Register](https://github.com/learn-co-curriculum/hs-oo-cash-register). They can move on to the [Jukebox](https://github.com/learn-co-curriculum/oo-jukebox) if they finish. 
++ Students should be divided into groups of 3-4 to build the Cash Register Project. 
++ This lab is totally speced out with rspec to provide suppprt
++ Teach default method arguments before starting this lab
++ Dive into the group challenges, starting with the [OO Cash Register](https://github.com/learn-co-curriculum/hs-oo-cash-register).
++ They can move on to the [Jukebox](https://github.com/learn-co-curriculum/oo-jukebox) if they finish. 
 
 ### Conclusion / So What?
 + Object orientation is not unique to Ruby. It's a programming concept that many different languages implement. So once you've gotten it down in Ruby, it'll be easy to translate your knowledge onto other programming languages that you'll learn, like JavaScript. So many of these concepts cut across languages, so the more you know, the easier it'll be to master additional languages in the future.
