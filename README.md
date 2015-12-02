@@ -21,3 +21,5 @@ Now you guys get the chance to build out the software that handles 37 million pa
 
 ### Hints and Hurdles
 + You can start off the class with a game of [Ruby Jeopardy](https://docs.google.com/a/flatironschool.com/presentation/d/15lxFavK4t-Gmv7dOANBPHiLflKpPgSejAGEnDuqN9Pc/edit?usp=sharing). Don't forget your Alex Trebek costume! And do use the Jeopardy theme song, which you can grab from YouTube.
+
+<a href='https://learn.co/lessons/hs-ruby1-teachers-guide-oo-group-project' data-visibility='hidden'>View this lesson on Learn.co</a>
